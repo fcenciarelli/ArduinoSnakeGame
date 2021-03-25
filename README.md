@@ -14,4 +14,5 @@ that obtains inputs from the gy-521 and filters it.
 
  
  
- -BGM arduino file contains music playlist for gameplay 
+-Put BGM arduino file and Pitches.h inside one folder called bgm in order to execute, the files contain music playlist for gameplay 
+-Put newSnake in a new folder with the same name in order to execute
