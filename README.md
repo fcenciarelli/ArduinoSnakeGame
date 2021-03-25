@@ -14,4 +14,4 @@ that obtains inputs from the gy-521 and filters it.
 
  
  
- -BGM folder contains music playlist for gameplay 
+ -BGM arduino file contains music playlist for gameplay 
