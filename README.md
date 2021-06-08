@@ -3,6 +3,8 @@
 
 Francesco Cenciarelli & Alex Sim Wei Shi
 
+This is a second year project for the arduino module of the course
+
 -->Addition of gyroscope controller to set snake position by adding a new function 
 that obtains inputs from the gy-521 and filters it.
 
